@@ -1,6 +1,6 @@
 # Trivia-Game
 
-Questions API: http://"https://opentdb.com/api.php
+Questions API: http://"https://opentdb.com
 
 How the project works:
 
